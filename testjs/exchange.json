@@ -1,0 +1,45 @@
+{
+  "dependencies": [
+    {
+      "version": "1.0.0",
+      "assetId": "x-transaction-id-header",
+      "groupId": "b0eeea72-80b1-4d5d-8617-131a45bfdbe6",
+      "provided": false
+    },
+    {
+      "version": "1.0.0",
+      "assetId": "examples-fragment7",
+      "groupId": "b0eeea72-80b1-4d5d-8617-131a45bfdbe6",
+      "provided": false
+    },
+    {
+      "version": "1.0.0",
+      "assetId": "common-datatype5",
+      "groupId": "b0eeea72-80b1-4d5d-8617-131a45bfdbe6",
+      "provided": false
+    },
+    {
+      "version": "1.0.0",
+      "assetId": "library-fragemt",
+      "groupId": "b0eeea72-80b1-4d5d-8617-131a45bfdbe6",
+      "provided": false
+    },
+    {
+      "version": "1.0.0",
+      "assetId": "x-correlation-id-header",
+      "groupId": "b0eeea72-80b1-4d5d-8617-131a45bfdbe6",
+      "provided": false
+    }
+  ],
+  "version": "1.0.0",
+  "descriptorVersion": "1.0.0",
+  "classifier": "raml",
+  "main": "order-datatype-info4.raml",
+  "assetId": "order-datatype-info4",
+  "groupId": "b0eeea72-80b1-4d5d-8617-131a45bfdbe6",
+  "name": "order-datatype-info4",
+  "organizationId": "b0eeea72-80b1-4d5d-8617-131a45bfdbe6",
+  "apiVersion": "v1",
+  "tags": [],
+  "originalFormatVersion": "1.0"
+}
